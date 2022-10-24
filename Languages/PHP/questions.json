@@ -53,6 +53,15 @@
        "trueOrFalse": true,
        "shortAns": "**NOTHING GOES HERE FOR BOOLEAN QUESTIONS"="",
        "tag": "Transportation"
-       }	
+       },
+	{
+       "id": 6,
+       "question": "What is used to get information sent via get method in PHP",
+       "details": "$_GET as it is the associative array method used to retrieve all the information",
+       "questionType": "multi",
+       "trueOrFalse": false,
+       "shortAns": "$_GET",
+       "tag": "Transportation"
+       }
   ]
 }
