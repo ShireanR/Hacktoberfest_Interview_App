@@ -35,6 +35,13 @@
       "trueOrFalse": true,
       "shortAns": "",
       "tag": "indentation"
-    }
+    },
+    { "id": 5,
+      "question": "For dictionaries to store complex types, every item must be of the same type.",
+      "details": "If multiple datatypes are being stored within in one dictionary, then the superclass of the datatypes must be used to define the dictionary.",
+      "questionType": "bool",
+      "trueOrFalse": false,
+      "shortAns": "dictionaries can store items of different types",
+      "tag": "dictionaries" },
   ]
 }
